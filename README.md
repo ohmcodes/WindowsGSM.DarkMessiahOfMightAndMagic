@@ -22,7 +22,7 @@
 🗃️ N/A
 
 ### The Game
-🕹️ https://store.steampowered.com/agecheck/app/2100/
+🕹️ https://store.steampowered.com/app/2100/Dark_Messiah_of_Might__Magic/
 
 ### Dedicated server info
 🖥️ https://steamdb.info/app/2145/
